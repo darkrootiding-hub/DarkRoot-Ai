@@ -12,4 +12,4 @@ jobs:
     steps:
       - name: Ping backend
         run: |
-          curl -fsS https://darkroot-ai.wisp.uno/ || true
+          curl -fsS https://darkrootai.wisp.uno/ || true
