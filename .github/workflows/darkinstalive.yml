@@ -1,0 +1,3 @@
+- name: Ping Telegram bot backend
+  run: |
+    curl -fsS https://darkinsta.wisp.uno/your-working-endpoint || true
